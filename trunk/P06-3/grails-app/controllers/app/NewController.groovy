@@ -2,5 +2,8 @@ package app
 
 class NewController {
 
-    def index = { }
+    def index = {
+        println "Hello World!"
+    }
+ 
 }
