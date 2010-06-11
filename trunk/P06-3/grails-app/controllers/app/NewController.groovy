@@ -6,6 +6,19 @@ class NewController {
         println "Hello Hello this is patkoh"
         println "Testing 3 I love the rain"
         // hi this is rainy!
+
+  .-´¯¯¯`-.
+,´          `.
+|             \
+|              \
+\           _  \
+,\  _    ,´¯,/¯)\
+( q \ \,´ ,´ ,´¯)
+ `._,)     -´,-´)
+   \/         ,´/
+    )        / /
+   /       ,´-´
+   
     }
  
 }
